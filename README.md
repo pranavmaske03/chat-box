@@ -14,13 +14,15 @@ ChatBox is a basic real-time chat application built using **Java Sockets**. It e
 - Multithreading
 
 ## How to Run
-### 1️⃣ Start the Server
+
+### Open the terminal
+#### 1️⃣ Start the Server
 ```bash
 javac Server.java
 java Server
 ```
 
-### 2️⃣ Start the Client
+#### 2️⃣ Start the Client
 ```bash
 javac Client.java
 java Client
@@ -39,11 +41,6 @@ java Client
  ├── Client.java   # Client-side implementation
  ├── README.md     # Project documentation
 ```
-
-## Future Improvements
-- 🔹 GUI-based chat interface
-- 🔹 Support for multiple clients
-- 🔹 Encrypted messaging
 
 ## License
 This project is open-source and free to use. Feel free to contribute! 🚀
